@@ -1,0 +1,1 @@
+El código que se encuentra en el documento radarJava.txt se tiene que poner en el IDE de Processing y el de RadarArduino.txt en el IDE de arduino
